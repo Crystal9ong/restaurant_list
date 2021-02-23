@@ -34,6 +34,3 @@
 - Node.js: v10.15.0
 - Express: v4.17.1
 - Express-Handlebars: v4.0.4
-
-### 專案畫面
-![image](https://github.com/irissung/restaurant_list/blob/master/restaurant.JPG)
